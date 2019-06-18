@@ -1,0 +1,7 @@
+{
+  "templates": {
+    "systemName": "js-arsdk",
+    "systemSummary": "Pure JavaScript implementation of the Parrot ARSDK for controlling Parrot drones.",
+    "systemColor": "#008fcf"
+  }
+}
